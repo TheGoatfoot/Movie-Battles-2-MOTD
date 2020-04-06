@@ -1,0 +1,7 @@
+" This is an example MOTD file
+" Every line is a message that will be shown in your server
+" A line starts with '"', or an empty line will be ignored
+
+^4Welcome^7 to my server!
+Example Text
+Join our ^6discord^7!

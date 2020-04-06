@@ -1,0 +1,14 @@
+[package]
+name = "motd"
+version = "0.1.0"
+authors = ["Goatfoot"]
+edition = "2018"
+
+[dependencies.regex]
+version = "1.3.6"
+default-features = false
+features = ["std", "perf"]
+
+[dependencies.clap]
+version = "2.33.0"
+default-features = false
